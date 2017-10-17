@@ -1,0 +1,10 @@
+{
+  "name": "coordsdistance",
+  "version": "0.0.2",
+  "description": "gps坐标距离计算",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "witt",
+  "license": "ISC"
+}
